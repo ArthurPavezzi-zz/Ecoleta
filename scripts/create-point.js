@@ -1,7 +1,8 @@
 function populateUFs() {
     const ufSelect = document.querySelector("select[name=uf]");
 
-    fetch("https://servicodados.ibge.gov.br/api/v1/localidades/estados")
+    // Em ordem alfabética
+    fetch("https://servicodados.ibge.gov.br/api/v1/localidades/estados?orderBy=nome")
         .then( res => res.json() )
         .then( states => {
 
@@ -22,7 +23,8 @@ function getCities(event) {
     const indexOfSelectState = event.target.selectedIndex;
     stateInput.value = event.target.options[indexOfSelectState].text;
 
-    const url = `https://servicodados.ibge.gov.br/api/v1/localidades/estados/${ufValue}/municipios`;
+    // Em ordem alfabética
+    const url = `https://servicodados.ibge.gov.br/api/v1/localidades/estados/${ufValue}/municipios?orderBy=nome`;
 
     citySelect.innerHTML = '<option value="">Selecione a Cidade</option>';
     citySelect.disabled = true;
