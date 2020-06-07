@@ -1,0 +1,23 @@
+{
+  "name": "Ecoleta",
+  "version": "1.0.0",
+  "description": "Projeto sendo realizado no evento Next Level Week, na trilha Starter, distribuído pela [Rocketseat](https://rocketseat.com.br/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurPavezzi/Ecoleta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurPavezzi/Ecoleta/issues"
+  },
+  "homepage": "https://github.com/ArthurPavezzi/Ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
