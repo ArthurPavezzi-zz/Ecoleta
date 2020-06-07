@@ -4,7 +4,7 @@
   "description": "Projeto sendo realizado no evento Next Level Week, na trilha Starter, distribuído pela [Rocketseat](https://rocketseat.com.br/).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/server.js"
   },
   "repository": {
     "type": "git",
