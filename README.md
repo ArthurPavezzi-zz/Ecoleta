@@ -14,7 +14,7 @@
 
 O <strong>Ecoleta</strong> é um marketplace de coleta de resíduos.
 
-Aplicação web construída na trilha <strong>Starter</strong> da <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/).
+Aplicação web construída na trilha <strong>Starter</strong> da <strong>Next Level Week #01</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/).
 
 ## 🖼 Screenshot
 
@@ -35,7 +35,7 @@ Aplicação web construída na trilha <strong>Starter</strong> da <strong>Next L
 
 ## 🎓 Quem ministrou?
 
-As aulas foram ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **Next Level Week**.
+As aulas foram ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **Next Level Week #01**.
 
 ## 📝 License
 
@@ -44,5 +44,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <h4 align="center">
-    Feito com muito esmero by <a href="https://www.linkedin.com/in/ArthurPavezzi/" target="_blank">Arthur Pavezzi</a>
+    Feito com muito esmero por <a href="https://www.linkedin.com/in/ArthurPavezzi/" target="_blank">Arthur Pavezzi</a>
 </h4>
