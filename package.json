@@ -1,22 +1,21 @@
 {
-  "name": "ecoleta",
+  "name": "Ecoleta",
   "version": "1.0.0",
-  "description": "Projeto sendo realizado no evento Next Level Week, na trilha Starter, distribuído pela [Rocketseat](https://rocketseat.com.br/).",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
     "start": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArthurPavezzi/Ecoleta.git"
+    "url": "git+https://github.com/Suburbanno/Ecoleta.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Vinicius Rodrigues",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ArthurPavezzi/Ecoleta/issues"
+    "url": "https://github.com/Suburbanno/Ecoleta/issues"
   },
-  "homepage": "https://github.com/ArthurPavezzi/Ecoleta#readme",
+  "homepage": "https://github.com/Suburbanno/Ecoleta#readme",
   "dependencies": {
     "express": "^4.17.1",
     "nunjucks": "^3.2.1"
